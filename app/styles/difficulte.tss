@@ -1,0 +1,11 @@
+
+".container" : {
+  	backgroundImage:"font_sudoku.png",
+	layout: "vertical",
+}
+
+"#bouton": {
+	width: Ti.UI.FILL,
+	height: 50,
+	top : 40
+}

@@ -1,0 +1,30 @@
+".container": {
+	backgroundImage:"font_sudoku.png",
+	layout: "vertical",
+}
+
+"Label": {
+	width: Ti.UI.SIZE,
+	height: Ti.UI.SIZE,
+	color: "#000",
+	top : 40
+}
+
+"#label": {
+	font: {
+		fontSize: 12
+	},
+}
+
+"#image": {
+	Image :"sudoku_banzai_logo.png",
+	width : 200,
+	height: 50,
+	top : 20
+}
+
+"#bouton": {
+	width: Ti.UI.FILL,
+	height: 100,
+	top : 40
+}

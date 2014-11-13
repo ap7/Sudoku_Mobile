@@ -1,0 +1,7 @@
+<Alloy>
+	<Window class="container">
+		<ImageView id="image" image="sudoku_banzai_logo.png"></ImageView>
+		<Button id="bouton" onClick="clickPlay">Jouer</Button>
+		<Label id="label">Meilleur score : </Label>
+	</Window>
+</Alloy>

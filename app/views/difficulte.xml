@@ -1,0 +1,7 @@
+<Alloy>
+	<Window class="container">
+		<Button id="bouton" onClick="clickFacil">Facil</Button>
+		<Button id="bouton" onClick="clickMoy">Moyen</Button>
+		<Button id="bouton" onClick="clickDiff">Difficile</Button>
+	</Window>
+</Alloy>
